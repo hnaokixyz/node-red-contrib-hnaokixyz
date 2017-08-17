@@ -1,6 +1,6 @@
 {
   "name": "node-red-contrib-hnaokixyz",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "node-red" : {
     "nodes": {
       "hnaokixyz-node": "node.js"
