@@ -1,0 +1,27 @@
+{
+  "name": "node-red-contrib-hnaokixyz",
+  "version": "1.0.0",
+  "node-red" : {
+    "nodes": {
+      "hnaokixyz-node": "node.js"
+    }
+  },
+  "description": "",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hnaokixyz/node-red-contrib-hnaokixyz.git"
+  },
+  "keywords": [
+    "node-red"
+  ],
+  "author": "hnaokixyz",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/hnaokixyz/node-red-contrib-hnaokixyz/issues"
+  },
+  "homepage": "https://github.com/hnaokixyz/node-red-contrib-hnaokixyz#readme"
+}
